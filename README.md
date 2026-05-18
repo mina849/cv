@@ -7,7 +7,7 @@ Prénom : Liticia
 Email : liticiabrahami2@gmail.com
 Téléphone : 0614139105
 Ville : Val de Marne
-Permis B 
+Permis B
 ____________________________________
 ##Profil.
 Étudiant en classe préparatoire parcours numérique, passionné par informatique.
