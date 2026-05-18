@@ -14,9 +14,9 @@ ____________________________________
 Je Recherche un stage pour acquérir de l'expérience en programmation.
 ________________________________________________________________________________
 ##Formation :
-Formation prequalification en alternance, De 2024 à 2025 E2C Créteil
-Licence 1 LEA en Anglais- Allemand, De 2022 à 2024 Université UPEC Créteil.
-Bac Pro Mode, De 2019 à 2022 Lycée Professionel La Source Nogent-sur-Marne.
+Formation prequalification en alternance: De 2024 à 2025 E2C Créteil
+Licence 1 LEA en Anglais- Allemand: De 2022 à 2024 Université UPEC Créteil.
+Bac Pro Mode: De 2019 à 2022 Lycée Professionel La Source Nogent-sur-Marne.
 ___________________________________________________________________________
 ##Compétences :
 -Cléanumérique / Certification
