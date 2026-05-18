@@ -1,5 +1,4 @@
-# cv
-_____________________________________
+
 ## CV - Stagiaire Prépa Numérique (Orientation Développement)
 _____________________________________________________________
 ## Informations personnelles
